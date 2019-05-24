@@ -1,0 +1,23 @@
+*{
+font-family: Arial;
+background: #FFFFFF;
+margin-right: 10px;
+margin-left: 10px;
+margin-top: 5px;
+
+}
+
+
+
+.pe{
+
+	font-size: 20px;
+	color: #FFFFFF;
+}
+
+.uno{
+
+	width: 10px;
+	height:5px;
+	overflow: scroll;
+}
